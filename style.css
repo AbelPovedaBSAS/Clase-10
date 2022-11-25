@@ -1,0 +1,25 @@
+.clase09 {
+    background-color: rgb(255, 81, 0);
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+
+    
+    /*para darle posisionamiento*/
+    display: flex;
+    justify-content: center;
+}
+.partedeabajo {
+    background-color: rgb(117, 221, 130);
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    color: rgb(0, 9, 128);
+    font-size: 30px;
+
+    /*para darle posisionamiento*/
+    display: flex;
+    justify-content:space-around;
+}
